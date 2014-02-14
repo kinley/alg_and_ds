@@ -1,0 +1,1 @@
+This repo is prepared for an Algorithms and Data Structures course.
